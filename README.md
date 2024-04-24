@@ -82,24 +82,24 @@ This github repository contains my solutions for the Top SQL 50 problems using M
 
 ### Subqueries
 
-| #    | Problem                                          | Level  | Status |
-| ---- | ------------------------------------------------ | ------ | ------ |
-| 1978 | [Employees Whose Manager Left the Company]()     | Easy   | Solved |
-| 626  | [Exchange Seats]()                               | Medium | -      |
-| 1341 | [Movie Rating]()                                 | Medium | -      |
-| 1321 | [Restaurant Growth]()                            | Medium | Solved |
-| 602  | [Friend Requests II: Who Has the Most Friends]() | Medium | -      |
-| 585  | [Investments in 2016]()                          | Medium | -      |
-| 185  | [Department Top Three Salaries]()                | Hard   | Solved |
+| #    | Problem                                                                                                     | Level  | Status |
+| ---- | ----------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| 1978 | [Employees Whose Manager Left the Company](/6-Subqueries/1978_Employees_Whose_Manager_Left_the_Company.sql) | Easy   | Solved |
+| 626  | Exchange Seats                                                                                              | Medium | -      |
+| 1341 | Movie Rating                                                                                                | Medium | -      |
+| 1321 | [Restaurant Growth](/6-Subqueries/1321_Restaurant_Growth.sql)                                               | Medium | Solved |
+| 602  | Friend Requests II: Who Has the Most Friends                                                                | Medium | -      |
+| 585  | Investments in 2016                                                                                         | Medium | -      |
+| 185  | [Department Top Three Salaries](/6-Subqueries/185_Department_Top_Three_Salaries.sql)                        | Hard   | Solved |
 
 ### Advanced String Functions / Regex Clause
 
-| #    | Problem                                   | Level  | Status |
-| ---- | ----------------------------------------- | ------ | ------ |
-| 1667 | [Fix Names in a Table]()                  | Easy   | -      |
-| 1527 | [Patients with a Condition]()             | Easy   | -      |
-| 196  | [Delete Duplicate Emails]()               | Easy   | Solved |
-| 176  | [Second Highest Salary]()                 | Medium | Solved |
-| 1484 | [Group Sold Products By The Date]()       | Easy   | -      |
-| 1327 | [List the Products Ordered in a Period]() | Easy   | -      |
-| 1517 | [Find Users With Valid E-mails]()         | Easy   | Solved |
+| #    | Problem                               | Level  | Status |
+| ---- | ------------------------------------- | ------ | ------ |
+| 1667 | Fix Names in a Table                  | Easy   | -      |
+| 1527 | Patients with a Condition             | Easy   | -      |
+| 196  | [Delete Duplicate Emails]()           | Easy   | Solved |
+| 176  | [Second Highest Salary]()             | Medium | Solved |
+| 1484 | Group Sold Products By The Date       | Easy   | -      |
+| 1327 | List the Products Ordered in a Period | Easy   | -      |
+| 1517 | [Find Users With Valid E-mails]()     | Easy   | Solved |
