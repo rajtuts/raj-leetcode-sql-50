@@ -94,12 +94,12 @@ This github repository contains my solutions for the Top SQL 50 problems using M
 
 ### Advanced String Functions / Regex Clause
 
-| #    | Problem                               | Level  | Status |
-| ---- | ------------------------------------- | ------ | ------ |
-| 1667 | Fix Names in a Table                  | Easy   | -      |
-| 1527 | Patients with a Condition             | Easy   | -      |
-| 196  | [Delete Duplicate Emails]()           | Easy   | Solved |
-| 176  | [Second Highest Salary]()             | Medium | Solved |
-| 1484 | Group Sold Products By The Date       | Easy   | -      |
-| 1327 | List the Products Ordered in a Period | Easy   | -      |
-| 1517 | [Find Users With Valid E-mails]()     | Easy   | Solved |
+| #    | Problem                                                                                                          | Level  | Status |
+| ---- | ---------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| 1667 | Fix Names in a Table                                                                                             | Easy   | -      |
+| 1527 | Patients with a Condition                                                                                        | Easy   | -      |
+| 196  | [Delete Duplicate Emails](/7-Advanced-String-Functions-RegEx-Clause/196_Delete_Duplicate_Emails.sql)             | Easy   | Solved |
+| 176  | [Second Highest Salary](/7-Advanced-String-Functions-RegEx-Clause/176_Second_Highest_Salary.sql)                 | Medium | Solved |
+| 1484 | Group Sold Products By The Date                                                                                  | Easy   | -      |
+| 1327 | List the Products Ordered in a Period                                                                            | Easy   | -      |
+| 1517 | [Find Users With Valid E-mails](/7-Advanced-String-Functions-RegEx-Clause/1517_Find_Users_With_Valid_Emails.sql) | Easy   | Solved |
