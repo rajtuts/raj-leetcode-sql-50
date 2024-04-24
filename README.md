@@ -2,15 +2,18 @@
 
 ## Overview
 
-The SQL 50 on LeetCode touches on basic to intermediate SQL topics that includes easy, medium, and hard level questions on the following topics:
+The SQL 50 on LeetCode touches on basic to intermediate SQL topics that includes easy, medium, and hard level questions on topics below.
 
-1. Select
-2. Basic Joins
-3. Basic Aggregate Functions
-4. Sorting and Grouping
-5. Advanced Select and Joins
-6. Subqueries
-7. Advanced String Functions / RegEx Clause
+- [LeetCode SQL 50 Solutions](#leetcode-sql-50-solutions)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+    - [Select](#select)
+    - [Basic Joins](#basic-joins)
+    - [Basic Aggregate Functions](#basic-aggregate-functions)
+    - [Sorting and Grouping](#sorting-and-grouping)
+    - [Advanced Select and Joins](#advanced-select-and-joins)
+    - [Subqueries](#subqueries)
+    - [Advanced String Functions / Regex Clause](#advanced-string-functions--regex-clause)
 
 This github repository contains my solutions for the Top SQL 50 problems using MS SQL Server syntax.
 
