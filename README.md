@@ -45,28 +45,28 @@ This github repository contains my solutions for the Top SQL 50 problems using M
 
 ### Basic Aggregate Functions
 
-| #    | Problem                                    | Level  | Status |
-| ---- | ------------------------------------------ | ------ | ------ |
-| 620  | [Not Boring Movies]()                      | Easy   | Solved |
-| 1251 | [Average Selling Price]()                  | Easy   | Solved |
-| 1075 | [Project Employees I]()                    | Easy   | Solved |
-| 1633 | [Percentage of Users Attended a Contest]() | Easy   | Solved |
-| 1211 | [Queries Quality and Percentage]()         | Easy   | Solved |
-| 1193 | [Monthly Transactions I]()                 | Medium | Solved |
-| 1174 | [Immediate Food Delivery II]()             | Medium | Solved |
-| 550  | [Game Play Analysis IV]()                  | Medium | Solved |
+| #    | Problem                                                                                                                | Level  | Status |
+| ---- | ---------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| 620  | [Not Boring Movies](/3-Basic-Aggregate-Functions/620_Not_Boring_Movies.sql)                                            | Easy   | Solved |
+| 1251 | [Average Selling Price](/3-Basic-Aggregate-Functions/1251_Average_Selling_Price.sql)                                   | Easy   | Solved |
+| 1075 | [Project Employees I](/3-Basic-Aggregate-Functions/1075_Project_Employees_I.sql)                                       | Easy   | Solved |
+| 1633 | [Percentage of Users Attended a Contest](/3-Basic-Aggregate-Functions/1633_Percentage_of_Users_Attended_a_Contest.sql) | Easy   | Solved |
+| 1211 | [Queries Quality and Percentage](/3-Basic-Aggregate-Functions/1211_Queries_Quality_and_Percentage.sql)                 | Easy   | Solved |
+| 1193 | [Monthly Transactions I](/3-Basic-Aggregate-Functions/1193_Monthly_Transactions_I.sql)                                 | Medium | Solved |
+| 1174 | [Immediate Food Delivery II](/3-Basic-Aggregate-Functions/1174_Immediate_Food_Delivery_II.sql)                         | Medium | Solved |
+| 550  | [Game Play Analysis IV](/3-Basic-Aggregate-Functions/550_Game_Play_Analysis_IV.sql)                                    | Medium | Solved |
 
 ### Sorting and Grouping
 
-| #    | Problem                                              | Level  | Status |
-| ---- | ---------------------------------------------------- | ------ | ------ |
-| 2356 | [Number of Unique Subjects Taught by Each Teacher]() | Easy   | Solved |
-| 1141 | [User Activity for the Past 30 Days I]()             | Easy   | Solved |
-| 1070 | [Product Sales Analysis III]()                       | Medium | Solved |
-| 596  | [Classes More Than 5 Students]()                     | Easy   | Solved |
-| 1729 | [Find Followers Count]()                             | Easy   | Solved |
-| 619  | [Biggest Single Number]()                            | Easy   | Solved |
-| 1045 | [Customers Who Bought All Products]()                | Medium | Solved |
+| #    | Problem                                                                                                                               | Level  | Status |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](/4-Sorting-and-Grouping/2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.sql) | Easy   | Solved |
+| 1141 | [User Activity for the Past 30 Days I](/4-Sorting-and-Grouping/1141_User_Activity_for_the_Past_30_Days_I.sql)                         | Easy   | Solved |
+| 1070 | [Product Sales Analysis III](/4-Sorting-and-Grouping/1070_Product_Sales_Analysis_III.sql)                                             | Medium | Solved |
+| 596  | [Classes More Than 5 Students](/4-Sorting-and-Grouping/596_Classes_More_Than_5_Students.sql)                                          | Easy   | Solved |
+| 1729 | [Find Followers Count](/4-Sorting-and-Grouping/1729_Find_Followers_Count.sql)                                                         | Easy   | Solved |
+| 619  | [Biggest Single Number](/4-Sorting-and-Grouping/619_Biggest_Single_Number.sql)                                                        | Easy   | Solved |
+| 1045 | [Customers Who Bought All Products](/4-Sorting-and-Grouping/1045_Customers_Who_Bought_All_Products.sql)                               | Medium | Solved |
 
 ### Advanced Select and Joins
 
