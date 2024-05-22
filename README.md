@@ -74,8 +74,8 @@ This github repository contains my solutions for the Top SQL 50 problems using M
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
 | 1731 | [The Number of Employees Which Report to Each Employee](/5-Advanced-Select-and-Joins/1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) | Easy   | Solved |
 | 1789 | [Primary Department for Each Employee](/5-Advanced-Select-and-Joins/1789_Primary_Department_for_Each_Employee.sql)                                   | Easy   | Solved |
-| 610  | Triangle Judgement                                                                                                                                   | Easy   | -      |
-| 180  | Consecutive Numbers                                                                                                                                  | Medium | -      |
+| 610  | [Triangle Judgement](/5-Advanced-Select-and-Joins/610_Triangle_Judgement.sql)                                                                        | Easy   | Solved |
+| 180  | [Consecutive Numbers](/5-Advanced-Select-and-Joins/180_Consecutive_Numbers.sql)                                                                      | Medium | Solved |
 | 1164 | [Product Price at a Given Date](/5-Advanced-Select-and-Joins/1164_Product_Price_at_a_Given_Date.sql)                                                 | Medium | Solved |
 | 1204 | Last Person to Fit in the Bus                                                                                                                        | Medium | -      |
 | 1907 | Count Salary Categories                                                                                                                              | Medium | -      |
