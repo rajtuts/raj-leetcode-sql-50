@@ -67,3 +67,45 @@ SELECT (
      OFFSET 1 ROW
      FETCH NEXT 1 ROW ONLY
 ) AS SecondHighestSalary;
+
+-- ORACLE ---
+Solution 1:
+
+Select max(Salary) from Employee
+    where salary < (select max(SALARY) from EMPLOYEE)
+
+Solution 2:
+
+/* Write your PL/SQL query statement below */
+with final as (
+  select 
+    salary, dense_rank() OVER (ORDER BY salary desc) rn
+  from Employee
+),
+secondH as (
+  select rowNum, salary from final where rn = 2
+)
+select 
+  (select salary from secondH where rowNum = 1) as SecondHighestSalary
+from dual
+
+Solution 3:
+select max(SecondHighestSalary) as SecondHighestSalary from(
+select salary as SecondHighestSalary,dense_rank() over(order by salary desc) as rank from Employee
+order by salary desc
+)
+where rank=2
+
+Solution 4:
+select emp.salary as SecondHighestSalary
+from (select 2 as id from dual) d 
+left join (select salary, row_number() over (order by salary desc) seqnum from employee group by salary) emp 
+on d.id = emp.seqnum
+
+Solution 5:
+/* Write your PL/SQL query statement below */
+select max(salary) as SecondHighestSalary  from(
+    select salary, dense_rank() over(order by salary desc) as rn from Employee
+)
+where rn=2
+
