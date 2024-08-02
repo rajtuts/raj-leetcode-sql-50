@@ -31,11 +31,11 @@ This github repository contains my solutions for the Top SQL 50 problems using M
 
 ### Basic Joins
 
-| #    | Problem                                                                                                                                  | Level  | Status |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| #    | Problem                                                                                                                                  | Level  | Status | Level |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ----- |
 | 1378 | [Replace Employee ID With The Unique Identifier](/2-Basic-Joins/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql)                 | Easy   | Solved |
 | 1068 | [Product Sales Analysis I](/2-Basic-Joins/1068_Product_Sales_Analysis%20I.sql)                                                           | Easy   | Solved |
-| 1581 | [Customer Who Visited but Did Not Make Any Transactions](/2-Basic-Joins/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) | Easy   | Solved |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](/2-Basic-Joins/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) | Easy   | Solved |  ***  |
 | 197  | [Rising Temperature](/2-Basic-Joins/197_Rising_Temperature.sql)                                                                          | Easy   | Solved |
 | 1661 | [Average Time of Process per Machine](/2-Basic-Joins/1661_Average_Time_of_Process_per_Machine.sql)                                       | Easy   | Solved |
 | 577  | [Employee Bonus](/2-Basic-Joins/577_Employee_Bonus.sql)                                                                                  | Easy   | Solved |
